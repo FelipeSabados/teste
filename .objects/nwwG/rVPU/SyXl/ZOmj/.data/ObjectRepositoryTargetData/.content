@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ekd5Il_9SU-8bde_sUe6nA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" DesignTimeRectangle="1692, 848, 216, 32" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Accept all' tag='BUTTON' type='button' idx='2' /&gt;" Guid="0bcd3bee-88ed-45e6-b308-fdd6382cf262" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1f0e9da82b497d53133841fff152b1ca.png" xmlns="">0V2Tg3rLioU-kPDjtRxvIbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

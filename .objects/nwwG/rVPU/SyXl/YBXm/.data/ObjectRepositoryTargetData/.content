@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BvQUWt2y-EObv2Dbj9Jhrg" Reference="j7-5jMdALkKl9uAlXfpl-Q/YBXmkIZCVUWzipvu70YTgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="853, 279, 100, 19" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='endDate' tag='INPUT' /&gt;" Guid="9858a4ac-12d4-4026-99b3-5b975b2fc88d" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="65a816cc46779250c7b84c15dcc717d5.png" xmlns="">0pnPZNBbOzUqtd7UNr7lF3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

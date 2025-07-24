@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0viD2rSqQ0WDtsx4m3EEZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="1056, 221, 146, 27" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tag='SELECT' data-testid='SearchForm-sortBy' parentclass='css-1e67xgz' /&gt;" Guid="e0f821d3-2514-41a6-ad03-e1dc7bd1e513" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1f199a95a73245a5b90bd79a205a293c.png" xmlns="">0mEREqFOVik-kkfMQvy4JQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

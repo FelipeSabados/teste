@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome The New York Times - Breaking News, US",
+  "Type": "Screen",
+  "Id": "SyXlaFhy50OkHePdZ6G8ZQ",
+  "Reference": "j7-5jMdALkKl9uAlXfpl-Q/SyXlaFhy50OkHePdZ6G8ZQ",
+  "ParentRef": "j7-5jMdALkKl9uAlXfpl-Q/rVPUhqxKXUydO9jTz_ZSLg",
+  "Created": "2025-07-23T17:43:44.0329351Z",
+  "Updated": "2025-07-23T17:43:44.0329351Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

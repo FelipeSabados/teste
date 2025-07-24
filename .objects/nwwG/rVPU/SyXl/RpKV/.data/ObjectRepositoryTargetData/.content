@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vk2QuZ3eDE-1axHDAef8sQ" Reference="j7-5jMdALkKl9uAlXfpl-Q/RpKVtWRCxkCx01gZSnqrPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="529, 459, 190, 32" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-label='Specific Dates' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='Specific Dates' tag='BUTTON' type='button' class='css-14z3d0n' aaname='Specific Dates' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Specific Dates' /&gt;" Guid="98f5c369-316f-4d27-ac31-40299aceace6" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="ef787f393ebd124e5efe700daf1b141f.png" xmlns="">09qL3lI58kEKVhPDJ_dlK1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

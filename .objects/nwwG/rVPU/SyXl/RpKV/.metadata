@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Specific Dates",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "RpKVtWRCxkCx01gZSnqrPQ",
+  "Reference": "j7-5jMdALkKl9uAlXfpl-Q/RpKVtWRCxkCx01gZSnqrPQ",
+  "ParentRef": "j7-5jMdALkKl9uAlXfpl-Q/SyXlaFhy50OkHePdZ6G8ZQ",
+  "Created": "2025-07-23T18:09:54.2367058Z",
+  "Updated": "2025-07-23T18:09:54.2367058Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

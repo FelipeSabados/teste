@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O8czITGbtUO8gruXhKeH9Q" Reference="j7-5jMdALkKl9uAlXfpl-Q/glblEZWrxUeNQxIl_y8Z0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="529, 265, 100, 38" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Date Range' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='site-content' tag='BUTTON' type='button' class='css-p5555t' aaname='Refine results via Date Range' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Refine results via&amp;#xA;Date Range' /&gt;" Guid="99435ad0-0fdd-406e-a38b-23dabd68340b" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ef998173e22078d1c995b202549aa238.png" xmlns="">0lgNNw615GkihZ6Sjccm7mw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

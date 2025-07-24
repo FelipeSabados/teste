@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome The New York Times - Search",
+  "Type": "Screen",
+  "Id": "QiU7tN-rikOpQvVqcUTUow",
+  "Reference": "j7-5jMdALkKl9uAlXfpl-Q/QiU7tN-rikOpQvVqcUTUow",
+  "ParentRef": "j7-5jMdALkKl9uAlXfpl-Q/rVPUhqxKXUydO9jTz_ZSLg",
+  "Created": "2025-07-23T18:33:07.5706514Z",
+  "Updated": "2025-07-23T18:33:07.5706514Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

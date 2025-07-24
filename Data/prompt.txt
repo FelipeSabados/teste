@@ -1,0 +1,23 @@
+Você receberá um texto contendo múltiplas notícias ou entradas, cada uma com título, data, descrição e eventualmente imagem associada.
+
+Sua tarefa é:
+
+1 - Para cada entrada, extraia:
+
+- Título
+
+- Data
+
+- Descrição (caso exista)
+
+2 - Adicionalmente, para cada entrada extraída:
+
+- Gere o nome fictício do arquivo da imagem no formato: imagem_<número>.jpg (ex: imagem_1.jpg, imagem_2.jpg…).
+
+- Conte quantas vezes as palavras “dinheiro”, “cash”, “dollars”, “US$” ou padrões como “$ 1.000,00” ou “11 dólares” aparecem no título e na descrição (palavras exatas ou formatos monetários).
+
+- Crie uma coluna “Contém quantia em dinheiro” com valor "Verdadeiro" se qualquer valor monetário for detectado no título ou na descrição; caso contrário, "Falso".
+
+3 - Por fim, organize os dados extraídos em uma planilha Excel com as seguintes colunas:
+
+Título	Data	Descrição	Nome da imagem	Contagem de frases de pesquisa	Contém quantia em dinheiro

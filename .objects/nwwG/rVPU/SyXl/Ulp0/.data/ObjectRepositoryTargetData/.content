@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aHCIvuMzcEmE9jEg24B4TQ" Reference="j7-5jMdALkKl9uAlXfpl-Q/Ulp0QHe8Skum2KvOf8yJzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com" CVScreenId="cac9424d-05af-4b84-ba64-d89b64fb4aad" DesignTimeRectangle="362, 142, 16, 16" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='app' class='css-1fe7a5q' parentclass='css-tkwi90 e1iflr850' /&gt;" Guid="0f15e995-5624-4c13-b0ec-740655560d4f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="9516fafdbf6590d3bfe0b30b05658495.png" xmlns="">0wWhsf7IKNE-moyMilq0xpA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
